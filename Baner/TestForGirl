@@ -1,5 +1,5 @@
 [res]
-textbaner = <size$120%><color$#0014FF><b>Тесты для вашей кошки</b></color> \n <size$100%><align$"center"><color$#000000><b>Тест IQ для кошки и кота.</b></color>
+textbaner = <size$120%><color$#0014FF><b>Тесты для вашей кошки</b></color>|<size$100%><align$"center"><color$#000000><b>Тест IQ для кошки и кота.</b></color>
 linkApp = com.VladTime.TestForCat
 linkBaner = TestForCatBanerIco.png
 showBaner = 1
